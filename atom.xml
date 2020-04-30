@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://francis21zz.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-30T11:04:33.947Z</updated>
+    <updated>2020-04-30T11:14:23.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://francis21zz.github.io"/>
     <link rel="self" href="https://francis21zz.github.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://francis21zz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[这是尝试写第一封博客的小记录]]></title>
+        <title type="html"><![CDATA[【思考】尝试开始写博客的小记]]></title>
         <id>https://francis21zz.github.io/post/zhe-shi-chang-shi-xie-di-yi-feng-bo-ke-de-xiao-ji-lu/</id>
         <link href="https://francis21zz.github.io/post/zhe-shi-chang-shi-xie-di-yi-feng-bo-ke-de-xiao-ji-lu/">
         </link>
         <updated>2020-04-30T09:04:37.000Z</updated>
-        <content type="html"><![CDATA[<p>的</p>
+        <content type="html"><![CDATA[<blockquote>
+<p>今天是2020年4月30日，20年五一假期的前一天，也是经历几个月的新冠肺炎严管后，北京开始无需隔离的第一个假期的前夕。今天也不是什么特别的日子，但就突然萌生了想要写博客的想法，并随即去知乎搜了搜写博客的平台，开始了第一篇博客的编辑。</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
