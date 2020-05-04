@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://francis21zz.github.io</id>
     <title>Francis&apos;s Blog</title>
-    <updated>2020-05-04T12:38:49.158Z</updated>
+    <updated>2020-05-04T12:53:01.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://francis21zz.github.io"/>
     <link rel="self" href="https://francis21zz.github.io/atom.xml"/>
@@ -11,14 +11,45 @@
     <icon>https://francis21zz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Francis&apos;s Blog</rights>
     <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://francis21zz.github.io/post/about/</id>
+        <link href="https://francis21zz.github.io/post/about/">
+        </link>
+        <updated>2020-05-04T12:45:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你 🙈</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<ul>
+<li>2020年5月开博，记录一些生活日常和工作学习的琐碎，是要多有一些思考的。</li>
+</ul>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<ul>
+<li>某95年生互联网单身产品汪，很细节但不强迫的处女座，理想的生活状态是无需为物质过度出卖自由，又一个Ta一起往后走。</li>
+</ul>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<ul>
+<li>目前有点农药的隐，在考虑戒掉</li>
+<li>喜欢看奇幻类的美剧和古装宫廷剧</li>
+<li>喜欢宅在家里，被拖出去玩耍也很开心</li>
+</ul>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<ul>
+<li>vx：sunk_ws</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【记录】尝试开始写博客的小记]]></title>
         <id>https://francis21zz.github.io/post/first_bolg/</id>
         <link href="https://francis21zz.github.io/post/first_bolg/">
         </link>
         <updated>2020-04-30T09:04:37.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
+        <summary type="html"><![CDATA[<p>这里是摘要</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这里是摘要</p>
+<!-- more -->
 <p>今天是2020年4月30日，20年五一假期的前一天，也是经历几个月的新冠肺炎严管后，北京开始无需隔离的第一个假期的前夕。今天也不是什么特别的日子，但就突然萌生了想要写博客的想法，并随即去知乎搜了搜写博客的平台，开始了第一篇博客的编辑。</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
