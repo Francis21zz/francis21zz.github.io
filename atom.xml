@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://francis21zz.github.io</id>
     <title>正正の小仓库</title>
-    <updated>2020-05-04T19:00:54.542Z</updated>
+    <updated>2020-05-04T19:12:57.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://francis21zz.github.io"/>
     <link rel="self" href="https://francis21zz.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://francis21zz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 正正の小仓库</rights>
     <entry>
-        <title type="html"><![CDATA[入坑产品岗位的一些琐碎]]></title>
+        <title type="html"><![CDATA[【职场】入坑产品岗位的一些琐碎]]></title>
         <id>https://francis21zz.github.io/post/first-step-of-career/</id>
         <link href="https://francis21zz.github.io/post/first-step-of-career/">
         </link>
@@ -45,7 +45,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于我]]></title>
+        <title type="html"><![CDATA[【Intro】关于博主]]></title>
         <id>https://francis21zz.github.io/post/about/</id>
         <link href="https://francis21zz.github.io/post/about/">
         </link>
@@ -85,6 +85,23 @@
 <!-- more -->
 <p>今天是2020年4月30日，20年五一假期的前一天，也是经历几个月的新冠肺炎严管后，北京开始无需隔离的第一个假期的前夕。今天也不是什么特别的日子，但就突然萌生了想要写博客的想法，并随即去知乎搜了搜写博客的平台，开始了第一篇博客的编辑。</p>
 <p>想要写博客的内心动因是什么呢？一方面是觉得自己做独立思考、深度思考的时间太少，同时觉得自己太久没有写作，想尝试做出一点小改变。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【电影】快把我哥带走]]></title>
+        <id>https://francis21zz.github.io/post/dian-ying-kuai-ba-wo-ge-dai-zou/</id>
+        <link href="https://francis21zz.github.io/post/dian-ying-kuai-ba-wo-ge-dai-zou/">
+        </link>
+        <updated>2018-08-18T16:07:11.000Z</updated>
+        <content type="html"><![CDATA[<p>全程看着都觉得时分演的很假，浮夸过度，表情动作也太过夸张，在妹妹时秒面前表现出来的，和他自己为保护妹妹所默默承受的，荒唐到有点分裂的感觉。</p>
+<p>可是最后时秒的一句“你把我落下了”还是戳中了泪点，再最后一张张小时候的照片，勾起的回忆已经不仅仅是Siblings之间的情感了，还有对童年，对家人，对故乡的怀念。<br>
+<img src="https://francis21zz.github.io/post-images/1588619316700.jpeg" alt="" loading="lazy"></p>
+<p>我家也有很多小时候和姐的照片，很小的时候穿着开裆裤的，让我坐木马怕哭了还绷着脸的，姐弟俩龇着牙笑的很僵硬的……<br>
+对比片子里，似乎自己和姐没有打的那么热闹那么亲近，似乎是因为差了5岁有点多了，又似乎是相处的机会不多。可想想小时候，也会有在一起不到半天就吵起来的，分开了不到半天就哭着想大姐了的。<br>
+<img src="https://francis21zz.github.io/post-images/1588619343629.jpeg" alt="" loading="lazy"></p>
+<p>长大了，读书了，工作了，嫁人了，桩桩件件好像都在减少姐弟相处的时间，可想想和谁又不是呢？读书了不在爸妈身边，工作了和好友一一分别，转学了连夸我日记写的认真的小学班主任叫什么也都记不清了。</p>
+<p>可嫁人了又怎么样呢？娘家还是有姐姐的一个房间，姐姐也还是娘家的人。知心的朋友即使不常联系，也还会是那个会倾听，能理解你的人。即使是再也回不去，遥远到记不起姓名的儿时往事，仅凭三五人名、一二往事，便能重温故时的温暖。<br>
+<img src="https://francis21zz.github.io/post-images/1588619358650.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
